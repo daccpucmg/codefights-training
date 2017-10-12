@@ -1,3 +1,8 @@
+/**
+ * @author DACC
+ * @version 1.0
+ */
+
 public class Add {
   
   // O metodo abaixo resolve a questao Add (https://codefights.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa) em Java  
