@@ -49,7 +49,7 @@ Você deve também alterar `@author` para `@authors`, e adicionar o seu nome jun
 
 ### Adicionando seu nome em `AUTHORS.md`
 
-Depois de fazer a sua contribuição com o nosso em forma de implementação ou correção, você deve alterar o arquivo `AUTHORS.md` para que seu nome esteja na seção **Contribuidores**. Lembrando que a lista de contribuidores deve permanecer em ordem alfabética.
+Depois de fazer a sua contribuição com o nosso em forma de implementação ou correção, você deve alterar o arquivo [`AUTHORS.md`](https://github.com/daccpucmg/codefights-training/blob/master/AUTHORS.md) para que seu nome esteja na seção **Contribuidores**. Lembrando que a lista de contribuidores deve permanecer em ordem alfabética.
 
 ### Dando o Pull Request
 
