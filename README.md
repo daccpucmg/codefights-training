@@ -11,4 +11,4 @@ Este repositório contém vários exercícios disponíveis no site CodeFights em
 * Python
 * Ruby
 
-Caso queira contribuir adicionando novas linguagens ou adicionando novos exercícios para as linguagens existentes, leia o nosso documento [`CONTRIBUTING.md`]().
+Caso queira contribuir adicionando novas linguagens ou adicionando novos exercícios para as linguagens existentes, leia o nosso documento [`CONTRIBUTING.md`](https://github.com/daccpucmg/codefights-training/blob/master/CONTRIBUTING.md).
