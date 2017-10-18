@@ -8,3 +8,4 @@ O DACC (Diretório Acadêmico da Ciência da Computação) mantém este reposit�
 
 Federico Jansen de Oliveira
 Geyson Inacio de Souza Junior
+Hernani De Barros Vieira Junior
