@@ -12,3 +12,4 @@ O DACC (Diretório Acadêmico da Ciência da Computação) mantém este reposit�
 - João Paulo de Castro Bento Pereira
 - Marco Antônio Ramos Cardoso Braga
 - Paulo H. Souza
+- Alexandre Velloso Pinheiro Filho
