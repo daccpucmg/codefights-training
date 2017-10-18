@@ -1,5 +1,5 @@
 /**
- * @author DACC
+ * @author DACC, Paulo H Souza
  * @version 1.0
  */
 
@@ -11,7 +11,7 @@ public class Add {
   }
   
   public static void main(String[] args) {
-    sum = add(5, 3);
+    int sum = add(5, 3);
     System.out.println(sum);
   }
 }
