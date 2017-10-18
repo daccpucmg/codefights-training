@@ -8,3 +8,4 @@ O DACC (Diretório Acadêmico da Ciência da Computação) mantém este reposit�
 Federico Jansen de Oliveira
 Felipe Marques Megale
 Gustavo Henrique Gomes de Araújo
+Marco Antônio Ramos Cardoso Braga
