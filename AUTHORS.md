@@ -5,6 +5,6 @@
 O DACC (Diretório Acadêmico da Ciência da Computação) mantém este repositório.
 
 ## Lista de Contribuidores
-
 Federico Jansen de Oliveira
 Felipe Marques Megale
+Gustavo Henrique Gomes de Araújo
