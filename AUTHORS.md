@@ -6,3 +6,4 @@ O DACC (Diretório Acadêmico da Ciência da Computação) mantém este reposit�
 
 ## Lista de Contribuidores
 
+Luiz Gustavo Bragança dos Santos
