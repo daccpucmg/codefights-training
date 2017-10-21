@@ -1,17 +1,34 @@
 /**
- * @author DACC
+ * @author Luiz Gustavo Bragança dos Santos
  * @version 1.0
  */
 
-public class Add {
-  
-  // O metodo abaixo resolve a questao Add (https://codefights.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa) em Java  
-  public static int add(int param1, int param2) {
-    return param1 + param2;
-  }
-  
-  public static void main(String[] args) {
-    sum = add(5, 3);
+public class Add
+{
+  /**
+   * Method add() - add two numbers
+   * @param  param1 - first number
+   * @param  param2 - second number
+   * @return sum
+   */
+  public static int add(int param1, int param2)
+  {
+    // adding
+    int sum = param1 + param2;
+
+    return sum;
+  }// end add()
+
+  /**
+   * Method main
+   * @param args
+   */
+  public static void main(String[] args)
+  {
+    // calling the method
+    int sum = add(5, 3);
+
+    // showing the sum
     System.out.println(sum);
-  }
-}
+  }// end main()
+}// end class Add
