@@ -12,6 +12,7 @@ O DACC (Diretório Acadêmico da Ciência da Computação) mantém este reposit�
 - Gustavo Henrique Gomes de Araújo
 - Hernani De Barros Vieira Junior
 - João Paulo de Castro Bento Pereira
+- Luiz Gustavo Bragança dos Santos
 - Marco Antônio Ramos Cardoso Braga
 - Paulo H. Souza
 - Ygor Matheus Lacerda de Melo
