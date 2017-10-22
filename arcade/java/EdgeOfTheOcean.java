@@ -1,6 +1,6 @@
 public class EdgeOfTheOcean {
 
-    // Solução da questão adjacentElementsProduct em Kotlin (Disponível em https://codefights.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m/description)
+    // Solução da questão Edge of the Ocean em Java 
     public static int adjacentElementsProduct(int[] inputArray){
         int max = Integer.MIN_VALUE;
         for (int i=1; i<inputArray.length; i++){
