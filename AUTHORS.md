@@ -6,6 +6,7 @@ O DACC (Diretório Acadêmico da Ciência da Computação) mantém este reposit�
 
 ## Lista de Contribuidores
 
+- Bruna Cunha de Oliveira
 - Federico Jansen de Oliveira
 - Felipe Marques Megale
 - Geyson Inacio de Souza Junior
