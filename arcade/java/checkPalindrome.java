@@ -24,7 +24,7 @@ public class checkPalindrome{
 		
   /**
 	 * O metodo abaixo resolve o exercicio checkPalindrome https://codefights.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ em Java
-	 * @param letra int - pega o tamanho da string e depois decrementa
+	 * @param String inputString - palavra a ser verificada
 	 * @return boolean - retorna true se palindromo
 	 */
 		public static boolean checkPalindrome_newSolution(String inputString) {
