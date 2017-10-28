@@ -9,6 +9,7 @@ O DACC (Diretório Acadêmico da Ciência da Computação) mantém este reposit�
 - Bruna Cunha de Oliveira
 - Federico Jansen de Oliveira
 - Felipe Marques Megale
+- Gabriella Mara Pereira
 - Geyson Inacio de Souza Junior
 - Gustavo Henrique Gomes de Araújo
 - Hernani De Barros Vieira Junior
