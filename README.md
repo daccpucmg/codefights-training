@@ -7,6 +7,7 @@ Este repositório contém vários exercícios disponíveis no site CodeFights em
 * C
 * C#
 * Go
+* Haskell
 * Java
 * JavaScript
 * Python
