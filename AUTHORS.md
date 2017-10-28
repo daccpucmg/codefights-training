@@ -1,4 +1,4 @@
-# Autores e Contribuidores
+﻿# Autores e Contribuidores
 
 ## Autor
 
@@ -15,4 +15,5 @@ O DACC (Diretório Acadêmico da Ciência da Computação) mantém este reposit�
 - João Paulo de Castro Bento Pereira
 - Marco Antônio Ramos Cardoso Braga
 - Paulo H. Souza
+- Pedro Campos Miranda
 - Ygor Matheus Lacerda de Melo
