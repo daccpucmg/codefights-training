@@ -14,5 +14,6 @@ O DACC (Diretório Acadêmico da Ciência da Computação) mantém este reposit�
 - Hernani De Barros Vieira Junior
 - João Paulo de Castro Bento Pereira
 - Marco Antônio Ramos Cardoso Braga
+- Maycon Bruno de Jesus
 - Paulo H. Souza
 - Ygor Matheus Lacerda de Melo
